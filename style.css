@@ -1,0 +1,12 @@
+.main-left{
+    background-color: darkblue;
+    width: 7vw;
+    height: 100vh;
+}
+.space{
+    padding-left: 13px;
+}
+
+.click{
+    cursor:pointer;
+}
